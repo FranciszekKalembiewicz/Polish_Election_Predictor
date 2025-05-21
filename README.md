@@ -14,4 +14,4 @@ The main goal of this project was to check how close machine-generated predictio
 
 ---
 
-**Note:** I'm currently still working on this project. This sentence will be removed once it's completed.
+**Note:** I'm currently still working on this project.
